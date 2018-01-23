@@ -11,13 +11,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jan_twentytwo_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jan_twentytwo_test.py">
+      <file leaf-file-name="jan_twentythree_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jan_twentythree_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+                <marker date="1516736828589" expanded="true" signature="85:96" ph="..." />
               </folding>
             </state>
           </provider>
@@ -37,12 +38,14 @@
       <list>
         <option value="$PROJECT_DIR$/jan_twenty_two_code.py" />
         <option value="$PROJECT_DIR$/jan_twentytwo_test.py" />
+        <option value="$PROJECT_DIR$/jan_twentythree_test.py" />
+        <option value="$PROJECT_DIR$/jan_twenty_three.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="26" />
-    <option name="width" value="720" />
+    <option name="width" value="1076" />
     <option name="height" value="803" />
   </component>
   <component name="ProjectView">
@@ -67,6 +70,15 @@
               <item name="weekdays" type="b2602c69:ProjectViewProjectNode" />
               <item name="weekdays" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="weekdays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="weekdays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -90,7 +102,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.jan_twentytwo_test">
+  <component name="RunManager" selected="Python.jan_twentythree_test">
+    <configuration name="jan_twenty_three" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weekdays" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jan_twenty_three.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="jan_twenty_two_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,6 +134,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weekdays" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jan_twenty_two_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="jan_twentythree_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weekdays" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jan_twentythree_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,14 +175,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.jan_twenty_two_code" />
       <item index="1" class="java.lang.String" itemvalue="Python.jan_twentytwo_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.jan_twenty_three" />
+      <item index="3" class="java.lang.String" itemvalue="Python.jan_twentythree_test" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.jan_twentytwo_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.jan_twenty_two_code" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.jan_twentythree_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.jan_twenty_three" />
+        <item index="2" class="java.lang.String" itemvalue="Python.jan_twentytwo_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.jan_twenty_two_code" />
       </list>
     </recent_temporary>
   </component>
@@ -155,10 +207,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="720" height="803" extended-state="1" />
+    <frame x="0" y="26" width="1076" height="803" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14962825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -181,7 +233,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -193,12 +247,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jan_twenty_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jan_twentytwo_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="19" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jan_twentythree_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1516736828589" expanded="true" signature="85:96" ph="..." />
           </folding>
         </state>
       </provider>
