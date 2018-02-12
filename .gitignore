@@ -1,2 +1,5 @@
 *.csv
 *.xls
+database.sqlite
+*.sqlite
+
