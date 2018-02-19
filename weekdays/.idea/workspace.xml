@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Question1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Question1.py">
+      <file leaf-file-name="SimpleReversedParenthesis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleReversedParenthesis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="1080">
+              <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -30,6 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -42,16 +47,19 @@
         <option value="$PROJECT_DIR$/jan_twenty_six_code.py" />
         <option value="$PROJECT_DIR$/Jan_twenty_nine_code.py" />
         <option value="$PROJECT_DIR$/Question8.py" />
-        <option value="$PROJECT_DIR$/Question1.py" />
         <option value="$PROJECT_DIR$/Question2.py" />
+        <option value="$PROJECT_DIR$/Question1.py" />
+        <option value="$PROJECT_DIR$/Question1b.py" />
+        <option value="$PROJECT_DIR$/Duplicate_Encoder.py" />
+        <option value="$PROJECT_DIR$/SimpleReversedParenthesis.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="639" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1141" />
     <option name="y" value="23" />
-    <option name="width" value="801" />
-    <option name="height" value="803" />
+    <option name="width" value="774" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -102,8 +110,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Question2">
-    <configuration name="Jan_twenty_nine_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SimpleReversedParenthesis">
+    <configuration name="Duplicate_Encoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -115,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weekdays" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jan_twenty_nine_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Duplicate_Encoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +147,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Question2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Question1b" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -151,7 +159,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weekdays" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Question2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Question1b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +183,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="jan_twenty_six_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SimpleReversedParenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,26 +195,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weekdays" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jan_twenty_six_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimpleReversedParenthesis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.jan_twenty_six_code" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Jan_twenty_nine_code" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Question1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Question8" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Question2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Question1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Question8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Question1b" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Duplicate_Encoder" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SimpleReversedParenthesis" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Question2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Question1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Question8" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Jan_twenty_nine_code" />
-        <item index="4" class="java.lang.String" itemvalue="Python.jan_twenty_six_code" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SimpleReversedParenthesis" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Duplicate_Encoder" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Question1b" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Question1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Question8" />
       </list>
     </recent_temporary>
   </component>
@@ -227,13 +235,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="23" width="801" height="803" extended-state="0" />
+    <frame x="1141" y="23" width="774" height="1011" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20099875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20801033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -254,7 +262,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -323,26 +331,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Question8.py">
+    <entry file="file://$PROJECT_DIR$/Question2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="15">
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Question2.py">
+    <entry file="file://$PROJECT_DIR$/Question8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Question1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="189">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Question1b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Duplicate_Encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleReversedParenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
           <folding />
         </state>
       </provider>
